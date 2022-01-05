@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there <img height="23px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-<!--
-**Bathory/bathory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Fserial-experiments-lain-gif-5.gif&f=1&nofb=1" width="300px" max-width="390px" align="right" alt="computer">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####  My name is Leticia, and I'm passionate about technology and videogames.  
+● 🌎 She/Her; pt-en.  
+● 👩‍💻 Intern <a href="https://github.com/IBM">@IBM</a>.  
+● 🗺 São Paulo, Brazil.  
+● 🎓 Computer Science - 7/8.  
+● 🦄 Main Skills: HTML, CSS, Bootstrap, JS.  
+  
+<a href="https://www.linkedin.com/in/leneves/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-1468c7?style=flat&logo=LinkedIn" /></a>
+<a href="https://www.polywork.com/bathory/" alt="Polywork"><img src="https://img.shields.io/badge/Polywork-543DE0?style=flat&logo=polywork&amp;logoColor=black">
