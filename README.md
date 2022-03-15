@@ -11,3 +11,10 @@
   
 <a href="https://www.linkedin.com/in/leneves/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-1468c7?style=flat&logo=LinkedIn" /></a>
 <a href="https://www.polywork.com/bathory/" alt="Polywork"><img src="https://img.shields.io/badge/Polywork-543DE0?style=flat&logo=polywork&amp;logoColor=black">
+
+<details>
+<br>  
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathory&layout=compact&langs_count=6&theme=vue-dark">
+</a>
+</details>
