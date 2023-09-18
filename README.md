@@ -9,7 +9,6 @@
 - Living in São Paulo, Brazil 🇧🇷.
 - 23 years old 👽 ISFP - ♉
 - Computer Science - 8/8  🎓
-- Learning the way into Back-end in [Vai na Web](https://vainaweb.com.br/) 📌
 
 #### Technologies & Tools
 
