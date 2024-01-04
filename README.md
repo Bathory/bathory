@@ -7,7 +7,6 @@
 **Front-end Developer🤓**
 - Pronouns: She/Her ✨
 - Living in São Paulo, Brazil 🇧🇷.
-- 23 years old 👽 ISFP - ♉
 - Computer Science - 8/8  🎓
 
 #### Technologies & Tools
